@@ -1,0 +1,8 @@
+#pragma once
+
+#define WIFI_SSID "YOUR_WIFI_SSID"
+#define WIFI_PASSWORD "YOUR_WIFI_PASSWORD"
+
+#define CAMERA_HOST "10.1.5.12"
+#define CAMERA_USER "admin"
+#define CAMERA_PASSWORD "YOUR_CAMERA_PASSWORD"
